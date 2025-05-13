@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Gonçalo Peixoto a Computer Science and Engineering student at IPVC-ESTG.<br>I'm passionate about technology and software development, and I’m always eager to expand my knowledge in areas such as programming, systems design, and emerging technologies.<br><br>In my spare time, I enjoy exploring new tools, building personal projects, and continuously improving my coding skills. I'm committed to learning and growing as a developer, and I value collaboration, curiosity, and clean, efficient code.<br><br>Thanks for visiting my profile feel free to reach out!</p>
+<p align="left">I'm Gonçalo Peixoto a Computer Science and Engineering student at IPVC-ESTG.<br>I'm passionate about technology and software development, and I’m always eager to expand my knowledge in areas such as programming, systems design, and emerging technologies.<br><br>In my spare time, I enjoy exploring new tools, building personal projects, and continuously improving my coding skills. I'm committed to learning and growing as a developer, and I value collaboration, curiosity, and clean, efficient code.<br><br>Thanks for visiting my profile feel free to reach out!</p>
 
 ###
 
